@@ -13,7 +13,7 @@ Demo  ![Sub_TrackerDemo1](images/Sub_trackerDemo1.png)
 
 
 ### JavaI/O
-This is a program that takes in a txt called input.txt and it reads whatever was written, after this it takes the words that were read and capitilizes them, then it procceds to Output these newly changed words onto a txt thats called output.txt
+This is a program that takes in a txt file called input.txt and it reads whatever was written within it before the program was ran, and it takes the words that were read and capitilizes them, then it procceds to Output these newly changed words onto a txt file thats called output.txt
 
 #####
 ![JavaI/O_Demo](images/JavaIODemo1.gif)
