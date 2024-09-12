@@ -17,6 +17,9 @@ This is a program that takes in a txt file called input.txt and it reads whateve
 
 #####
 Demo
+
+
+
 ![JavaI/O_Demo](images/JavaIODemo1.gif)
 
 
