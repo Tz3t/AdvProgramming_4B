@@ -15,7 +15,7 @@ Demo  ![Sub_TrackerDemo1](images/Sub_trackerDemo1.png)
 ### JavaI/O
 This is a program that takes in a txt called input.txt and it reads whatever was written in input.txt, after this it takes the words and Capitilizes them and outputs them onto Output.txt
 
-Demo ![JavaI/O_Demo](images/JavaIODemo1.mkv)
+Demo ![JavaI/O_Demo](images/JavaIODemo1.gif)
 
 
 
